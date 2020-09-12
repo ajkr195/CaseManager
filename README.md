@@ -134,10 +134,3 @@ History of your case
 ![casemanager](https://github.com/ajkr195/CaseManager/blob/master/scereenshots/13.png)
 
 
-# Who we are
-We are ostechstack. An IT solutioning company focussed on delivering the best solutions and products.
-We are number one source for all your needs - products, solutions, services, support. 
-We're dedicated to giving you the very best of solutions with a focus on dependability, customer service and uniqueness.
-We have a long way to sustain in the industry by providing the best solutions among the competition.
-
-Send all your Queries to - ostechstack@gmail.com
