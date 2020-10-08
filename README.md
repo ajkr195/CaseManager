@@ -1,6 +1,8 @@
 # CaseManager
 A case management  solution using latest Spring-Boot and Spring-Security. 
 
+Source code releasing on - November 15, 2020.
+
 # Login Screen
 
 ![casemanager](https://github.com/ajkr195/CaseManager/blob/master/scereenshots/1.png)
