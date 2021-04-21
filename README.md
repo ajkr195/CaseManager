@@ -1,5 +1,6 @@
 # CaseManager
-A case management  solution using latest Spring-Boot and Spring-Security. 
+A case management  solution using latest Spring-Boot and Spring-Security. For case-documents / content-storage any of these can be used as repository : 
+<ul><li>FileNet</li><li>Alfresco</li><li>MongoDB</li><li>Documentum</li><li>SAN</li><li>NAS</li><li>Database - Oracle/Postgres/MSSQL/MySQL etc.</li></ul>
 
 Source code coming soon...
 
