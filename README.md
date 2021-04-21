@@ -50,7 +50,7 @@ Manage Cases as Admin/ProgramArea Head or as a case worker. All roles will have 
 
 # Add Documents to your case
 
-Add and Manage case documents. Choose and define your own repository where doucments can be stored. Storage can be either of these - Some Content Management System repository like - FileNet/MongoDB/Documentum, a SAN/NAS or a Database.
+Add and Manage case documents. Choose and define your own repository where doucments can be stored. Storage can be either of these - Some Content Management System repository like - FileNet/Alfresco/MongoDB/Documentum/SAN/NAS or simply a Database.
 
 
 ![casemanager](https://github.com/ajkr195/CaseManager/blob/master/scereenshots/15.png)
