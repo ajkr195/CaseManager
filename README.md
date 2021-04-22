@@ -3,7 +3,7 @@ Probably this is the term and idea which is as old as the IT industry. So many s
 
 <ol><li>Cost</li><li>Complexity</li><li>Technology Specific Developers are required </li><li>Hard to find above </li><li>Dependency on a specific platform </li><li>And many more...</li></ol>
 
-Lets bridge that need of simple case management solution's need by creating a simple yet powerful solution. A solution which should be so easy and straight-forward using which - A Business Analyst should be able to create a robust workflow system for any business need(s) such as: 
+Let's bridge that need of simple case management solution's need by creating a simple yet powerful solution. A solution which should be so easy and straight-forward using which - A Business Analyst should be able to create a robust workflow system for any business need(s) such as: 
 
 <h6>
 <ol>
@@ -18,7 +18,7 @@ And so on......(literally anything you can think of)...
 </h6>
 
 # CaseManager
-A case management  solution using latest Spring-Boot and Spring-Security. For case-documents / content-storage any of these can be used as repository : 
+A case management  solution around latest Spring-Boot eco-system. For case-documents / content-storage any of these can be used as repository : 
 <ul><li>FileNet</li><li>Alfresco</li><li>MongoDB</li><li>Documentum</li><li>SAN</li><li>NAS</li><li>Database - Oracle/Postgres/MSSQL/MySQL etc.</li></ul>
 
 Source code coming soon...
