@@ -139,4 +139,7 @@ History of your case
 
 ![casemanager](https://github.com/ajkr195/CaseManager/blob/master/scereenshots/13.png)
 
+# Update To/From External Systems. 
+
+At every step GET/POST requests to external systems.
 
