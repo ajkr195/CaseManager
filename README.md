@@ -1,7 +1,7 @@
 # CaseManagement
 Probably this is the term and idea which is as old as the IT industry. So many solutions are out there which are mostly overkill for most enterprises. In most cases, it seems like killing a small bird using tanks/canons. The overhead can be any of these (not limited to) - 
 
-<ol><li>Cost</li><li>Complexity</li><li>Technology Specific Developers are required </li><li>Hard to find above </li><li>And many more...</li></ol>
+<ol><li>Cost</li><li>Complexity</li><li>Technology Specific Developers are required </li><li>Hard to find above </li><li>Dependency on a specific platform </li><li>And many more...</li></ol>
 
 Lets bridge that need of simple case management solution's need by creating a simple yet powerful solution. A solution which should be so easy and straight-forward using which - A Business Analyst should be able to create a robust workflow system for any business need(s) such as: 
 
